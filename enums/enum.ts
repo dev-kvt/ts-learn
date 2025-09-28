@@ -16,4 +16,4 @@ function calculateFST(pop: Population) {
 }
 
 calculateFST(Population.African); // ✅ works
-calculateFST("Antarctica");       // ❌ TS error, can’t do this
+//calculateFST("Antarctica");       // ❌ TS error, can’t do this
